@@ -17,7 +17,6 @@ public class Linklist_class {
         System.out.println(Li.lastIndexOf(65));
 
 
-
     }
 
 }
