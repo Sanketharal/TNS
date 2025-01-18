@@ -1,4 +1,4 @@
-package Polymorphism_code;
+package Polymorphism;
 
 public class Polymorphism_code {
 
